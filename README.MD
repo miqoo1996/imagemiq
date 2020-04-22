@@ -1,7 +1,7 @@
 PHP Libary Imagemiq
 -------------------
 
-The package was created by [Miqayel Ishkhanyan](http://imusthave.jermukcity.am) special for php developers.
+The package was created by [Miqayel Ishkhanyan](http://imusthave.jermukcity.am) for php developers.
 
 The package helps to work with images more easily.
 
