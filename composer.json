@@ -1,7 +1,7 @@
 {
   "name": "miqoo1996/imagemiq",
   "type": "library",
-  "description": "The package was created by Miqayel Ishkhanyan special for php developers. The package able to help to work with images more easily. This image upload package provides functions such as upload, resize, crop, rotate, delete",
+  "description": "An image upload package which provides lot of functions such as upload, resize, crop, rotate, delete.",
   "keywords": [
     "image upload php",
     "php",
