@@ -7,8 +7,8 @@ The package helps to work with images more easily.
 
 This image upload package provides lot of functions such as upload, resize, crop, rotate, delete.
 
-How to using
-------------
+How to use
+-------------
 1. composer require miqoo1996/test567
 2. HTML code
 ```
