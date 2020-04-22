@@ -9,7 +9,7 @@ This image upload package provides lot of functions such as upload, resize, crop
 
 How to use
 -------------
-1. composer require miqoo1996/test567
+1. composer require miqoo1996\imagemiq
 2. HTML code
 ```
 <form action="" method="post" enctype="multipart/form-data">
