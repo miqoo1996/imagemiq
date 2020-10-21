@@ -5,7 +5,7 @@ The package was created by [Miqayel Ishkhanyan](http://imusthave.jermukcity.am) 
 
 The package helps to work with images more easily.
 
-This image upload package provides lot of functions such as upload, resize, crop, rotate, delete.
+This image upload package provides a lot of functions such as upload, resize, crop, rotate, delete.
 
 How to use
 -------------
