@@ -1,11 +1,9 @@
 PHP Libary Imagemiq
 -------------------
 
-The package was created by [Miqayel Ishkhanyan](http://imusthave.jermukcity.am) for php developers.
+Created by [Miqayel Ishkhanyan](http://imusthave.jermukcity.am).
 
-The package helps to work with images more easily.
-
-This image upload package provides a lot of functions such as upload, resize, crop, rotate, delete.
+The package helps to work with images easier, provides many functions such as image uploading, resizing, cropping, rotating, deleting.
 
 How to use
 -------------
