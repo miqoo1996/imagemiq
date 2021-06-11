@@ -22,9 +22,19 @@ $obj = new \miqoo1996\imagemiq\image();
  * Image types must be one of these.
  *
  * IMAGETYPE_PNG, IMAGETYPE_GIF, IMAGETYPE_JPEG
+ * Ex. you can use IMAGETYPE_PNG to convert the image from current format to PNG.
  */
 $obj->load($_FILES['fileToUpload']['tmp_name'])
     ->resizeToWidth(500)
     ->save('destination/aaa.png', IMAGETYPE_PNG);
+
+Some additional methids may come in handy, follow the below examples.
+$obj->load($_FILES['fileToUpload']['tmp_name']); // Or $obj->load('image/from/path.jpg');
+$obj->scale(2); // new image resized by scaling
+$obj->resize(10, 20) // resize the image by the specific width and height
+$with = $obj->getWidth();
+$height = $obj->getHeight();
 ```
-    
+
+
+Enjoy coding with the nice package!
