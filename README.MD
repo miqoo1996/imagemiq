@@ -28,7 +28,10 @@ $obj->load($_FILES['fileToUpload']['tmp_name'])
     ->resizeToWidth(500)
     ->save('destination/aaa.png', IMAGETYPE_PNG);
 
-Some additional methids may come in handy, follow the below examples.
+
+// Some additional methids may come in handy, follow the below examples.
+
+
 $obj->load($_FILES['fileToUpload']['tmp_name']); // Or $obj->load('image/from/path.jpg');
 $obj->scale(2); // new image resized by scaling
 $obj->resize(10, 20) // resize the image by the specific width and height
