@@ -29,7 +29,7 @@ $obj->load($_FILES['fileToUpload']['tmp_name'])
     ->save('destination/aaa.png', IMAGETYPE_PNG);
 
 
-// Some additional methids may come in handy, follow the below examples.
+// Some additional methods may come in handy, follow the below examples.
 
 
 $obj->load($_FILES['fileToUpload']['tmp_name']); // Or $obj->load('image/from/path.jpg');
